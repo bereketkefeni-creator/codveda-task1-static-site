@@ -1,0 +1,26 @@
+# Codveda Internship – Task 1: Simple Static Website
+
+This project is part of my internship at Codveda. It includes a responsive static website with custom branding and clean structure.
+
+## 🔧 Technologies Used
+- HTML
+- CSS
+- Responsive Design
+
+## 🖼️ Preview
+![Homepage Screenshot](images/homepage.jpg)
+
+## 🧠 About Me
+I’m Bereket Kefeni, a software engineering student passionate about backend development, ethical AI, and global tech innovation.
+
+## 📁 Pages
+- Home
+- About
+- Contact
+
+## 🖋️ Branding
+Includes my personal logo:  
+![Bereket Kefeni Logo](images/bereket-logo.png)
+
+## 📌 Status
+✅ Completed and ready for review
